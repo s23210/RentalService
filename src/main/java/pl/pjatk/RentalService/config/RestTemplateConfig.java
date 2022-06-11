@@ -1,4 +1,4 @@
-package pl.pjatk.RentalService.domain;
+package pl.pjatk.RentalService.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
